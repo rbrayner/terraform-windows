@@ -1,0 +1,3 @@
+.terraform*
+deploy_file
+terraform.tfstate*
